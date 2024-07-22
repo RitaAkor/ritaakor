@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  🔭 I’m currently working on <a href="https://github.com/ritaakor">Building a New Project EveryDay Until I Get a Job</a><br>
+  🔭 I’m currently working on <a href="https://github.com/ritaakor">Building a New Project EveryDay</a><br>
   🌱 I’m currently learning <strong>DevOps & Cloud DevOps</strong><br>
   📝 I regularly write articles on <a href="https://medium.com/@akorqueenrita">Medium</a><br>
   📫 How to reach me: <a href="mailto:ritaakor05@gmail.com">akorqueenrita@gmail.com</a>
