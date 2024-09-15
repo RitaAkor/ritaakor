@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rita Akor</h1>
-<h3 align="center">Aspiring DevOps Engineer | Passionate about Continuous Learning and Project Development.</h3>
+<h3 align="center">DevOps Engineer | Passionate about Continuous Learning and Project Development.</h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300" />
@@ -11,7 +11,6 @@
 
 <p align="center">
   🔭 I’m currently working on <a href="https://github.com/ritaakor">Building a New Project EveryDay</a><br>
-  🌱 I’m currently learning <strong>DevOps & Cloud DevOps</strong><br>
   📝 I regularly write articles on <a href="https://medium.com/@akorqueenrita">Medium</a><br>
   📫 How to reach me: <a href="mailto:ritaakor05@gmail.com">akorqueenrita@gmail.com</a>
 </p>
